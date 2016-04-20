@@ -1,3 +1,5 @@
+data/
+
 # Compiled source #
 ###################
 *.com
@@ -42,3 +44,4 @@ Thumbs.db
 .direnv
 __pycache__
 *.pyc
+.ipynb_checkpoints/
